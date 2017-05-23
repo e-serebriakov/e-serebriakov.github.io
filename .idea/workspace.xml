@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8680daf5-6869-4b6b-a729-479977108d16" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common/static/fonts/PTSans/PTC55F_W.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common/DevTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common/styles/keyframes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common/utils/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common/utils/weatherResponseConvertor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/addForm/AddForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/app/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/app/AppActions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/app/AppReducers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/app/AppStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/citiesList/CitiesList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/cityCard/CityCard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/configureStore.dev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/configureStore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/configureStore.prod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticServer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.eslintrc.json" afterPath="$PROJECT_DIR$/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="93" column="54" lean-forward="false" selection-start-line="93" selection-start-column="54" selection-end-line="93" selection-end-column="54" />
+            <state relative-caret-position="140">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -328,12 +302,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495573449366</updated>
-      <workItem from="1495573450816" duration="872000" />
+      <workItem from="1495573450816" duration="1099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="872000" />
+    <option name="totallyTimeSpent" value="1099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -455,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="93" column="54" lean-forward="false" selection-start-line="93" selection-start-column="54" selection-end-line="93" selection-end-column="54" />
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
